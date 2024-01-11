@@ -19,6 +19,9 @@ Briefly introduce your dataset here. Explain what the data represents, the conte
 ## Prerequisites
 - ApInsight: Follow the download, installation and setup instructions here: https://github.com/erichnau/GPR_tools/tree/new_GUI
 
+
+## Lisence
+The datasets are released under the [MIT]. See the LICENSE file for more details.
 ## Acknowlegements
 The datasets were kindly provided by Petra Schneidhofer, Kulturarv, Vestfold fylkeskommune (petra.schneidhofer@vestfoldfylke.no)
 
