@@ -5,7 +5,7 @@ Sample dataset for the ApInsight tool:
 
 The datasets provided are a minimal example of data needed for analysis with ApInsight. The datasets provided are based on motorized MALÅ MIRA surveys carried out within The Vestfold Monitoring Project (VEMOP) - Environmental factors in minimal-invasive Cultural Heritage Management research project funded by the Oslofjordfund / Norwegian Research Council
 
-![C_10062021_040-050.tif]
+![GPR depthslice C_10062021](C_10062021_040-050.tif)
 
 Briefly introduce your dataset here. Explain what the data represents, the context, and how it can be useful for users who want to explore the features of your software.
 
