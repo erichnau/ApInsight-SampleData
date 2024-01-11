@@ -7,7 +7,6 @@ The datasets provided are a minimal example of data needed for analysis with ApI
 
 ![GPR depthslice C_10062021](C_10062021_040-050.jpg)
 
-Briefly introduce your dataset here. Explain what the data represents, the context, and how it can be useful for users who want to explore the features of your software.
 
 ## Contents
 - 'C_10062021.fld': Processed 3D datablock from the GPR survey at Lunde on 10.06.2021
