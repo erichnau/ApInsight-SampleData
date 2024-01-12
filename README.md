@@ -1,7 +1,7 @@
 # ApInsight - SampleData
 
 ## Introduction
-This repository contains some sample datasets that can be used with the ApInsight tool. It is intended for users that do not have own GPR datasets processed with the ApRadar software (Geosphere Austria) but want to explore the functionality of ApInsigth.  
+This repository contains some sample datasets that can be used with the ApInsight tool. It is intended for users that do not have own GPR datasets processed with the ApRadar software (Geosphere Austria) but want to explore the functionality of ApInsight.  
 
 The datasets provided are minimal examples of data needed for analysis with ApInsight and contain processed 3D datablocks in a customized .fld file format and corresponding digital terrain models in .tif (geotif) format. 
 
@@ -23,7 +23,7 @@ The datasets provided are minimal examples of data needed for analysis with ApIn
 ## License
 The datasets are released under the [MIT]. See the LICENSE file for more details.
 
-## Acknowlegements
+## Acknowledgements
 The datasets provided are based on motorized MALÅ MIRA surveys carried out within The Vestfold Monitoring Project (VEMOP) - Environmental factors in minimal-invasive Cultural Heritage Management research project funded by the Oslofjordfund / Norwegian Research Council. The datasets were kindly provided by Petra Schneidhofer, Kulturarv, Vestfold fylkeskommune.
 
 ## Contact
