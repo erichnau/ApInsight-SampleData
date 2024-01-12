@@ -9,12 +9,13 @@ The datasets provided are a minimal example of data needed for analysis with ApI
 
 
 ## Contents
-- 'C_10062021.fld': Processed 3D datablock from the GPR survey at Lunde on 10.06.2021
- - 'C_10062021_DTM_Float.tif': Digital terrain model derived from the GNNS data from the same survey
-- 'C_10062021_DTMfromGPR.fld': Topographically correced 3D datablock from the same survey
+- 'C_10062021.fld': Processed 3D datablock from the GPR survey at Lunde on 10.06.2021.
+ - 'C_10062021_DTM_Float.tif': Digital terrain model derived from the GNNS data from the same survey.
+- 'C_10062021_DTMfromGPR.fld': Topographically correced 3D datablock from the same survey.
 
-- 'E_31082021.fld': Processed 3D datablock from the GPR survey at Lunde on 31.08.2021
-- 'E_31082021_DTM_Float.tif': Digital terrain model derived from the GNNS data from the same survey
+
+- 'E_31082021.fld': Processed 3D datablock from the GPR survey at Lunde on 31.08.2021.
+- 'E_31082021_DTM_Float.tif': Digital terrain model derived from the GNNS data from the same survey.
 
 ## Prerequisites
 - ApInsight: Follow the download, installation and setup instructions here: https://github.com/erichnau/GPR_tools/tree/new_GUI
@@ -23,7 +24,7 @@ The datasets provided are a minimal example of data needed for analysis with ApI
 ## License
 The datasets are released under the [MIT]. See the LICENSE file for more details.
 ## Acknowlegements
-The datasets were kindly provided by Petra Schneidhofer, Kulturarv, Vestfold fylkeskommune (petra.schneidhofer@vestfoldfylke.no)
+The datasets were kindly provided by Petra Schneidhofer, Kulturarv, Vestfold fylkeskommune.
 
 ## Contact
 erich.nau@niku.no
