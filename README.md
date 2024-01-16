@@ -5,7 +5,7 @@ This repository contains some sample datasets that can be used with the ApInsigh
 
 The datasets provided are minimal examples of data needed for analysis with ApInsight and contain processed 3D datablocks in a customized .fld file format and corresponding digital terrain models in .tif (geotif) format. 
 
-![GPR depthslice C_10062021](C_10062021_040-050.jpg)
+![GPR depthslice C_10062021](images/C_10062021_040-050.jpg)
 
 
 ## Contents
